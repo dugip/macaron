@@ -1,4 +1,5 @@
 dist
+!packages/vite/dist
 node_modules
 build
 .DS_Store
