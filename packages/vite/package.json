@@ -11,7 +11,7 @@
     "directory": "packages/vite"
   },
   "dependencies": {
-    "@macaron-css/integration": "1.1.3",
+    "@macaron-css/integration": "https://gitpkg.now.sh/dugip/macaron/packages/integration?feat/macaron-vite-extend-babel-built",
     "@vanilla-extract/integration": "^6.0.0",
     "@vanilla-extract/vite-plugin": "^3.1.6"
   },

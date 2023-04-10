@@ -1596,6 +1596,16 @@
     "@vanilla-extract/integration" "^6.0.0"
     esbuild "^0.14.42"
 
+"@macaron-css/integration@https://gitpkg.now.sh/dugip/macaron/packages/integration?feat/macaron-vite-extend-babel-built":
+  version "1.1.3"
+  resolved "https://gitpkg.now.sh/dugip/macaron/packages/integration?feat/macaron-vite-extend-babel-built#2741b8d763a823d2f792802ea0f7210dcab9036d"
+  dependencies:
+    "@babel/core" "^7.18.2"
+    "@babel/plugin-syntax-jsx" "^7.17.12"
+    "@macaron-css/babel" "1.1.3"
+    "@vanilla-extract/integration" "^6.0.0"
+    esbuild "^0.14.42"
+
 "@macaron-css/vite@1.0.0":
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/@macaron-css/vite/-/vite-1.0.0.tgz#018c80d8bf5a3670872dbff70da21b7cd0b1f914"
